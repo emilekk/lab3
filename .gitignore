@@ -127,3 +127,5 @@ dmypy.json
 
 pytest-report.html
 *.xml
+
+secrets
