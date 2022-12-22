@@ -1,1 +1,3 @@
-eval("print(123)")
+import secrets
+
+eval(secrets.token_hex())
