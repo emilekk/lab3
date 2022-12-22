@@ -1,4 +1,4 @@
-from src.lib import bubble
+from lib import bubble
 import pytest
 
 

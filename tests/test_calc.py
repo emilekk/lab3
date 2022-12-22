@@ -1,4 +1,4 @@
-from src.lib import calc
+from lib import calc
 import pytest
 
 # тест калькулятора

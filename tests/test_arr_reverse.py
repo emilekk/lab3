@@ -1,4 +1,4 @@
-from src.lib import reverse_array
+from lib import reverse_array
 
 
 def test_reverse_array():
