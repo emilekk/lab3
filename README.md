@@ -1,2 +1,1 @@
-# lab3
-Непрерывная интеграция
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b2784410aee243c7adb324a7f67cd77d)](https://www.codacy.com/gh/emilekk/lab3/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=emilekk/lab3&amp;utm_campaign=Badge_Grade)
